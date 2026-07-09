@@ -27,7 +27,7 @@ A beginner-friendly console-based expense tracker written in **Python**. The pro
 ## 📁 Project Structure
 
 ```
-├── Project_2.py    # Full Python source code
+├── Project 2.py    # Full Python source code
 ```
 
 
@@ -41,7 +41,7 @@ A beginner-friendly console-based expense tracker written in **Python**. The pro
 1. Clone this repository
 2. Run:
    ```bash
-   python Project_2.py
+   python Project 2.py
    ```
 
 
